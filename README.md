@@ -11,7 +11,7 @@
 
 ## **What is RAF:LAA?**
 
-RAF:LAA（Reactor‑Aligned Field : Layered Autonomous Architecture）は、  
+RAF:LAA（Romance is A Favour: Love is A Allowable）は、  
 **BandOS の深層層で動作する「世界の物理法則」**です。
 
 この世界では、存在（Field）は意味を持たず、  
